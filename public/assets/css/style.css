@@ -27,7 +27,7 @@ ul {
 }
 
 .background {
-  background-image: url("/assets/images/burger.jpg");
+  /* background-image: url("/assets/images/burger.jpg"); */
   overflow: visible;
   height: 100%;
 }
