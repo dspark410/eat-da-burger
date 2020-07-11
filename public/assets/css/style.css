@@ -1,0 +1,33 @@
+* {
+  margin: auto;
+  position: relative
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+.background {
+  background-image: url("/assets/images/burger.jpg");
+  overflow: visible;
+  height: 100%;
+}
